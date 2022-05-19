@@ -10,6 +10,9 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
+    "appcenter": "^4.4.4",
+    "appcenter-analytics": "^4.4.4",
+    "appcenter-crashes": "^4.4.4",
     "react": "17.0.2",
     "react-native": "0.68.1",
     "react-native-gesture-handler": "^2.4.2",
